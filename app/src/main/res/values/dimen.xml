@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="text_question">18sp</dimen>
+    <dimen name="text_result_final">24sp</dimen>
+    <dimen name="size_image_height">350dp</dimen>
+    <dimen name="size_image_question">400dp</dimen>
+</resources>

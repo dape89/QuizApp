@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Music Quiz</string>
+    <string name="question">You guess the correct answer:</string>
+    <string name="question_one">1 - No vacancy</string>
+    <string name="question_two">2 - Wake me up</string>
+    <string name="question_three">3 - Despacito</string>
+    <string name="question_four">4 - Wavin\'Flag</string>
+    <string name="question_five">5 - Life in technicolor</string>
+    <string name="question_six">6 - I believe in you</string>
+    <string name="linkin_park">Linkin Park</string>
+    <string name="one_republic">One Republic</string>
+    <string name="justin_bieber">Justin Bieber</string>
+    <string name="tiziano_ferro">Tiziano Ferro</string>
+    <string name="avicii">Avicii</string>
+    <string name="eminem">Eminem</string>
+    <string name="aloe_blacc">Aloe Blacc</string>
+    <string name="luis_fonsi">Luis Fonsi</string>
+    <string name="gavin_degraw">Gavin Degraw</string>
+    <string name="john_martin">John Martin</string>
+    <string name="jovanotti">Jovanotti</string>
+    <string name="knaan">K\'naan</string>
+    <string name="jonas_blue">Jonas Blue</string>
+    <string name="chainsmokers">The Chainsmokers</string>
+    <string name="kygo">Kygo</string>
+    <string name="the_killers">The Killers</string>
+    <string name="alan_walker">Alan Walker</string>
+    <string name="coldplay">Coldplay</string>
+    <string name="twenty_one_pilots">Twenty One Pilots</string>
+    <string name="artist_name">Artist name</string>
+    <string name="name">Michael Buble</string>
+    <string name="start">Start quiz</string>
+    <string name="start_score">0</string>
+    <string name="score">Send answers</string>
+    <string name="reset">Reset</string>
+    <string name="score_text">Score:</string>
+</resources>
